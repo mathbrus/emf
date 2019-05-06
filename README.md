@@ -1,1 +1,1 @@
-# Hello les copains
+Empirical Methods for Finance Assignments
